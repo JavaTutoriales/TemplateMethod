@@ -1,5 +1,8 @@
 ![JavaTutoriales](assets/LogoGit.png)
 
+![](https://img.shields.io/badge/JT-En%20Construccion-yellow)
+![](https://img.shields.io/badge/JT-Design%20Patterns-orange)
+
 # Template Method
 
 ## 👋 Bienvenid@s
